@@ -12,9 +12,5 @@
 	"type": "commonjs",
 	"dependencies": {
 		"express": "^5.1.0"
-	},
-	"devDependencies": {
-		"autoprefixer": "^10.4.24",
-		"postcss": "^8.5.6"
 	}
 }
